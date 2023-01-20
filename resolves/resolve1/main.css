@@ -1,0 +1,18 @@
+a {
+    text-decoration: none;
+    color: blueviolet;
+}
+
+h1  {
+    font-size: 35px;
+}
+p{
+    background: chartreuse;
+}
+li{
+    background-color: brown;
+}
+
+img{
+    width: 400px;
+}
